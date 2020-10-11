@@ -2,7 +2,7 @@
   "name": "user-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cmanthou.github.io",
+  "homepage": "https://cmanthou.github.io/19.Employee_Directory",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
